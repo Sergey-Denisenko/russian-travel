@@ -12,3 +12,7 @@ ____
 :white_check_mark: *адаптивная вёрстка (grid, flex)*
 :white_check_mark: *методология БЭМ*
 :white_check_mark: *способность здраво мыслить, фантазия и творческий потенциал*
+
+____
+
+*Посмотреть проект можно по ссылке https://sergey-denisenko.github.io/russian-travel/* :+1:
