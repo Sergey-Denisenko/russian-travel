@@ -1,0 +1,6 @@
+.cover__image {
+    max-width: 100%;
+    background-repeat: none;
+    background-size: cover;
+    margin:0px;
+  }
