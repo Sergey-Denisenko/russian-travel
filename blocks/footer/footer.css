@@ -1,5 +1,6 @@
+@import url(./__nav/__nav.css);
 @import url(./__links/__links.css);
-@import url(./__links/_item/_item.css);
+@import url(./__links-item/__links-item.css);
 @import url(./__link/__link.css);
 @import url(./__copyright/__copyright.css);
 
