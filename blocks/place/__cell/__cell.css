@@ -1,6 +1,5 @@
 .place__cell {
   margin:0;
-  /* border: 1px solid green; */
 }
 
   .place__cell:nth-child(2){

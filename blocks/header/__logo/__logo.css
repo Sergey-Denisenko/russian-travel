@@ -3,7 +3,6 @@
   width: 176px;
   height: 52px;
   margin: 0;
-  /* border: 1px solid red; */
 }
 
 @media all and (min-width: 320px) and (max-width: 767px) {

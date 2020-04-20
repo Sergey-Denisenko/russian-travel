@@ -9,7 +9,6 @@
   text-align: center;
   position: absolute;
   align-self: center;
-  /* border: 1px solid green; */
 }
 
 @media all and (min-width: 1024px) and (max-width: 1279px) {

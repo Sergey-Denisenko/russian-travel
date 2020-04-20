@@ -10,7 +10,6 @@
   justify-items: center;
   align-items: start;
   margin:92px auto 0px;
-  /* border: 1px solid red; */
 }
 
 @media all and (min-width: 1024px) and (max-width: 1279px) {

@@ -1,21 +1,3 @@
 .footer__links-item {
-  display: inline-block;
-  margin-right: 18px;
+  margin: 0;
 }
-
-.footer__links-item:last-of-type {
-  margin-right: 0;
-}
-
-@media all and (min-width: 320px) and (max-width: 767px) {
-  .footer__links-item {
-    display: block;
-    margin: 32px 0px 0px;
-  }
-
-  .footer__links-item:first-of-type {
-    margin-top: 0;
-  }
-}
-
-
