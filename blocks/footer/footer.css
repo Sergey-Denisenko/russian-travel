@@ -9,11 +9,17 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  min-width: calc(100% - 48px - 48px);
+  min-width: calc(1280px - 48px - 48px);
   margin: 92px auto 24px;
 }
 
-@media all and (min-width: 768px) and (max-width: 2013px) {
+@media all and (min-width: 1024px) and (max-width: 1279px) {
+  .footer {
+    min-width: calc(100% - 24px - 24px);
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 1023px) {
   .footer {
     min-width: calc(100% - 24px - 24px);
   }

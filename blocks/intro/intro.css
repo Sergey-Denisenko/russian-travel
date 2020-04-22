@@ -2,7 +2,7 @@
 @import url(./__text/__text.css);
 @import url(./__list/__list.css);
 @import url(./__list-item/__list-item.css);
-@import url(./__list-item/_font-weight/_font-weight.css);
+@import url(./__digit/__digit.css);
 
 .intro {
   width: calc(100% - 148px - 148px);
